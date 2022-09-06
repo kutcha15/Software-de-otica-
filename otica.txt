@@ -1,0 +1,21 @@
+RF001 - cadastrar o estoque
+
+RF002 - consultar o perfil do cliente
+
+RF003 - consultar o balancete das vendas 
+
+RF004 - dar baixa nos produtos vendidos
+
+RF005 - emissão da nota fiscal
+
+RF006 - consultar disponibilidade de produtos 
+
+RNF001 - armazenar dados dos clientes
+
+RNF002 - desenvolvido em java
+
+RNF003 - armazenar vendas
+
+RNF004 - armazenar o codigo de cada produto
+
+RNF005 - funcionar em Windows
